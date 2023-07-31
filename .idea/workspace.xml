@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="820691a4-6c2d-4652-9991-64e184430630" name="Changes" comment="https://github.com/rodion-roslyakov/1.1.4.git" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OVkhnSIDDuLKrvchoquXgJ4uih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.UserServiceTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jm.task.core.jdbc.Main" />
+      <module name="TaskJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jm.task.core.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="820691a4-6c2d-4652-9991-64e184430630" name="Changes" comment="" />
+      <created>1681653258144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681653258144</updated>
+      <workItem from="1681653259370" duration="3278000" />
+      <workItem from="1681904209960" duration="231000" />
+      <workItem from="1681904446993" duration="229000" />
+      <workItem from="1681904693162" duration="227000" />
+      <workItem from="1681926748322" duration="1342000" />
+      <workItem from="1682174737110" duration="1201000" />
+      <workItem from="1682249820456" duration="6051000" />
+      <workItem from="1682531298479" duration="1665000" />
+      <workItem from="1682757959160" duration="20000" />
+      <workItem from="1682763077823" duration="600000" />
+      <workItem from="1683657923829" duration="600000" />
+      <workItem from="1683721428638" duration="599000" />
+      <workItem from="1683742356835" duration="4000" />
+      <workItem from="1683875159918" duration="562000" />
+      <workItem from="1683902447968" duration="5000" />
+      <workItem from="1684086935105" duration="6838000" />
+      <workItem from="1684182557437" duration="1314000" />
+      <workItem from="1684393719637" duration="2000" />
+      <workItem from="1684598034435" duration="115000" />
+      <workItem from="1684598154787" duration="15000" />
+      <workItem from="1684735940969" duration="1193000" />
+      <workItem from="1684837139541" duration="4000" />
+      <workItem from="1685081931518" duration="600000" />
+      <workItem from="1686120405867" duration="2398000" />
+      <workItem from="1686204470252" duration="599000" />
+      <workItem from="1686735219228" duration="10000" />
+      <workItem from="1687331346098" duration="14000" />
+      <workItem from="1687503789822" duration="6000" />
+      <workItem from="1688749483180" duration="608000" />
+      <workItem from="1688891985033" duration="10000" />
+      <workItem from="1689593914157" duration="25753000" />
+    </task>
+    <task id="LOCAL-00001" summary="https://github.com/rodion-roslyakov/1.1.4.git">
+      <created>1690836883564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690836883564</updated>
+    </task>
+    <task id="LOCAL-00002" summary="https://github.com/rodion-roslyakov/1.1.4.git">
+      <created>1690839109252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690839109252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://github.com/rodion-roslyakov/1.1.4.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/rodion-roslyakov/1.1.4.git" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
