@@ -17,6 +17,6 @@ public class Main {
 
         userService.removeUserById(3);
         userService.getAllUsers();
-        userService.cleanUsersTable();
+//        userService.cleanUsersTable();
     }
 }
